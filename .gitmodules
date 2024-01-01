@@ -1,0 +1,12 @@
+[submodule "app/react/web"]
+	path = app/react/web
+	url = https://github.com/bobokeke0/Nila-react-app.git
+[submodule "app/rn/mobile"]
+	path = app/rn/mobile
+	url = https://github.com/bobokeke0/Nila-rn-app.git
+[submodule "app/rn/lib/lib-react-native"]
+	path = app/rn/lib/lib-react-native
+	url = https://github.com/react-ghana/lib-react-native.git
+[submodule "server/parse-b4a"]
+	path = server/parse-b4a
+	url = https://github.com/bobokeke0/Nila-server.git
